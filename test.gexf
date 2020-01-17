@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-01-30">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="105000013679" label="周峻锋"><attvalues><attvalue for="modularity_class" value="1050"></attvalue></attvalues><viz:size value="1"></viz:size><viz:position x="1" y="1" z="0"></viz:position><viz:color r="120" g="50" b="50"></viz:color>
+      <node id="105000013220" label="付友芳"><attvalues><attvalue for="modularity_class" value="1050"></attvalue></attvalues><viz:size value="2"></viz:size><viz:position x="2" y="2" z="0"></viz:position><viz:color r="120" g="50" b="50"></viz:color>
+      <node id="105000013220" label="付友芳"><attvalues><attvalue for="modularity_class" value="1050"></attvalue></attvalues><viz:size value="3"></viz:size><viz:position x="3" y="3" z="0"></viz:position><viz:color r="120" g="50" b="50"></viz:color>
+    </nodes>
+    <edges>
+      <edge id="105000013679" source="0" target="109000005898"><attvalues></attvalues></edge>
+      <edge id="105000013220" source="0" target="109000005898"><attvalues></attvalues></edge>
+      <edge id="105000013220" source="0" target="105000013679"><attvalues></attvalues></edge>
+    </edges>
+  </graph>
+</gexf>
